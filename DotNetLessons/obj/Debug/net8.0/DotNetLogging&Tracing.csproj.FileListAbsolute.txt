@@ -1,0 +1,14 @@
+/Users/katesyshepard/Desktop/DotNetLogging&Tracing/bin/Debug/net8.0/DotNetLogging&Tracing
+/Users/katesyshepard/Desktop/DotNetLogging&Tracing/bin/Debug/net8.0/DotNetLogging&Tracing.deps.json
+/Users/katesyshepard/Desktop/DotNetLogging&Tracing/bin/Debug/net8.0/DotNetLogging&Tracing.runtimeconfig.json
+/Users/katesyshepard/Desktop/DotNetLogging&Tracing/bin/Debug/net8.0/DotNetLogging&Tracing.dll
+/Users/katesyshepard/Desktop/DotNetLogging&Tracing/bin/Debug/net8.0/DotNetLogging&Tracing.pdb
+/Users/katesyshepard/Desktop/DotNetLogging&Tracing/obj/Debug/net8.0/DotNetLogging&Tracing.GeneratedMSBuildEditorConfig.editorconfig
+/Users/katesyshepard/Desktop/DotNetLogging&Tracing/obj/Debug/net8.0/DotNetLogging&Tracing.AssemblyInfoInputs.cache
+/Users/katesyshepard/Desktop/DotNetLogging&Tracing/obj/Debug/net8.0/DotNetLogging&Tracing.AssemblyInfo.cs
+/Users/katesyshepard/Desktop/DotNetLogging&Tracing/obj/Debug/net8.0/DotNetLogging&Tracing.csproj.CoreCompileInputs.cache
+/Users/katesyshepard/Desktop/DotNetLogging&Tracing/obj/Debug/net8.0/DotNetLogging&Tracing.dll
+/Users/katesyshepard/Desktop/DotNetLogging&Tracing/obj/Debug/net8.0/refint/DotNetLogging&Tracing.dll
+/Users/katesyshepard/Desktop/DotNetLogging&Tracing/obj/Debug/net8.0/DotNetLogging&Tracing.pdb
+/Users/katesyshepard/Desktop/DotNetLogging&Tracing/obj/Debug/net8.0/DotNetLogging&Tracing.genruntimeconfig.cache
+/Users/katesyshepard/Desktop/DotNetLogging&Tracing/obj/Debug/net8.0/ref/DotNetLogging&Tracing.dll

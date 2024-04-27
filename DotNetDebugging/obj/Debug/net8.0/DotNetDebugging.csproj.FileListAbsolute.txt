@@ -1,0 +1,14 @@
+/Users/katesyshepard/Desktop/DotNetDebugging/bin/Debug/net8.0/DotNetDebugging
+/Users/katesyshepard/Desktop/DotNetDebugging/bin/Debug/net8.0/DotNetDebugging.deps.json
+/Users/katesyshepard/Desktop/DotNetDebugging/bin/Debug/net8.0/DotNetDebugging.runtimeconfig.json
+/Users/katesyshepard/Desktop/DotNetDebugging/bin/Debug/net8.0/DotNetDebugging.dll
+/Users/katesyshepard/Desktop/DotNetDebugging/bin/Debug/net8.0/DotNetDebugging.pdb
+/Users/katesyshepard/Desktop/DotNetDebugging/obj/Debug/net8.0/DotNetDebugging.GeneratedMSBuildEditorConfig.editorconfig
+/Users/katesyshepard/Desktop/DotNetDebugging/obj/Debug/net8.0/DotNetDebugging.AssemblyInfoInputs.cache
+/Users/katesyshepard/Desktop/DotNetDebugging/obj/Debug/net8.0/DotNetDebugging.AssemblyInfo.cs
+/Users/katesyshepard/Desktop/DotNetDebugging/obj/Debug/net8.0/DotNetDebugging.csproj.CoreCompileInputs.cache
+/Users/katesyshepard/Desktop/DotNetDebugging/obj/Debug/net8.0/DotNetDebugging.dll
+/Users/katesyshepard/Desktop/DotNetDebugging/obj/Debug/net8.0/refint/DotNetDebugging.dll
+/Users/katesyshepard/Desktop/DotNetDebugging/obj/Debug/net8.0/DotNetDebugging.pdb
+/Users/katesyshepard/Desktop/DotNetDebugging/obj/Debug/net8.0/DotNetDebugging.genruntimeconfig.cache
+/Users/katesyshepard/Desktop/DotNetDebugging/obj/Debug/net8.0/ref/DotNetDebugging.dll
